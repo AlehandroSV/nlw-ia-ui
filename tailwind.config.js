@@ -72,5 +72,5 @@ module.exports = {
     },
   },
   // eslint-disable-next-line no-undef
-  plugins: [require('tailwindcss-animate'), require('tailwind-scrollbar')],
+  plugins: [require('tailwindcss-animate')],
 };
